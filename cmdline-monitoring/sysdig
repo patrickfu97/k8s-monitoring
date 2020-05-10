@@ -1,0 +1,2 @@
+sysdig -c spy_users
+监控系统所有执行过的cmd，包括通过脚本执行的
